@@ -1,5 +1,7 @@
 # 候选人信息
 ***
+<img src="/lz1159435992/information/blob/master/tester/001.png?raw=true" alt="001.png">
+
 ![图片](/tester/001.png)
 
 <img src="https://github.com/lz1159435992/information/blob/master/tester/001.png" width="30%" height="30%" align="left"/>
