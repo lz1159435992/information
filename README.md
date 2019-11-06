@@ -1,13 +1,13 @@
 # 候选人信息
 ***  
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" align="left"/>
-| 居中对齐 |
-| :----: |
-|**姓名：蔡卓炜** |
-|**姓名：蔡卓炜** |
-|**现任职：移动研发部经理**|
-|**成为通信委员年度：2017年**|
-|**推荐人：李宣东、陈海波**|
+| 居中对齐 |  
+| :----: |  
+|**姓名：蔡卓炜** |  
+|**姓名：蔡卓炜** |  
+|**现任职：移动研发部经理**|  
+|**成为通信委员年度：2017年**|  
+|**推荐人：李宣东、陈海波**|  
 ***
 
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" align="left"/>
