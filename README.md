@@ -9,17 +9,7 @@
 
 这是我的一部分简介
 
-<div><img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.png"/>奥斯卡的静安寺科技大开始觉得阿克苏交到哪开收据回答开始觉得奥斯卡交罚款十几分哈卡十几分阿可使肌肤哈萨克会发开发考虑到打底裤辣椒粉打开了as</div>
-<style type="text/css">
-    div{
-        margin: 0 auto;
-        word-break: break-word;
-    }
-    img{
-        width: 100px;
-        height: 100px;
-        float: left;
-    }
+<div><img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.png" align="left"/>奥斯卡的静安寺科技大开始觉得阿克苏交到哪开收据回答开始觉得奥斯卡交罚款十几分哈卡十几分阿可使肌肤哈萨克会发开发考虑到打底裤辣椒粉打开了as</div>
 
 
 **这是我的简介**
