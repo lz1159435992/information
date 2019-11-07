@@ -95,25 +95,6 @@
 
 <div id="main" style="width:500px; height:200px; text-aligh:center">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" width= "141" height = "188" align="left"/>
-</div>
-<div id="center" class="text" style="float:left ; width:50%; height:60%">
-<p><b>姓名：</b>蔡卓炜</p>
-<p><b>单位：</b>上海陆金所</p>
-<p><b>现任职：</b>移动研发部经理</p>
-<p><b>成为通信委员年度：</b>2017年</p>
-<p><b>界别：</b>工业界</p> 
-</div>
-</div>
-**个人简介：**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012.3~2014.1 复旦大学 软件学院工程硕士  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014.3~至今 上海陆家嘴国际金融资产交易市场股份有限公司移动研发部经理  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017.2~至今 中国计算机学会上海分会委员  
-
-***  
-
-<div id="main" style="width:500px; height:200px; text-aligh:center">
-<div id="left" style="float:left ; width:50%; height:100%;">
 <img src="" width= "141" height = "188" align="left"/>
 </div>
 <div id="center" class="text" style="float:left ; width:50%; height:60%">
@@ -133,7 +114,7 @@
 
 <div id="main" style="width:500px; height:200px; text-aligh:center">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" width= "141" height = "188" align="left"/>
+<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/xiawen.jpg" width= "141" height = "188" align="left"/>
 </div>
 <div id="center" class="text" style="float:left ; width:50%; height:60%">
 <p><b>姓名：</b>夏文</p>
@@ -271,7 +252,7 @@
 
 <div id="main" style="width:500px; height:200px; text-aligh:center">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/guoshanqing.jpg" width= "141" height = "188" align="left"/>
+<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/guoshangqing.jpg" width= "141" height = "188" align="left"/>
 </div>
 <div id="center" class="text" style="float:left ; width:50%; height:60%">
 <p><b>姓名：</b>郭山清</p>
@@ -560,7 +541,7 @@
 
 <div id="main" style="width:500px; height:200px; text-aligh:center">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="" width= "141" height = "188" align="left"/>
+<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/zhangyu.jpg" width= "141" height = "188" align="left"/>
 </div>
 <div id="center" class="text" style="float:left ; width:50%; height:60%">
 <p><b>姓名：</b>张羽</p>
