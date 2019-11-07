@@ -4,13 +4,10 @@
 <div id="left" style="float:left ; width:50%; height:100%;">
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" width= "178" height = "250" align="left"/>
 </div>
-<div id="right" class="text" style="float:left ; width:50%; height:100%; text-aligh:center">
+<div id="center" class="text" style="float:left ; width:50%; height:100%; text-aligh:center">
 <b>姓名：</b>蔡卓炜
-<br/>
 <b>现任职：</b>移动研发部经理 
-<br/>
 <b>成为通信委员年度：</b>2017年 
-<br/>
 <b>推荐人：</b>李宣东、陈海波   
 </div>
 </div>
