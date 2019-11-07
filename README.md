@@ -220,7 +220,7 @@
 <div id="left" style="float:left ; width:50%; height:100%;">
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/chenpengfei.jpg" width= "141" height = "188" align="left"/>
 </div>
-<div id="center" class="text" style="float:left ; width:60%; height:60%">
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
 <p><b>姓名：</b>陈鹏飞</p>
 <p><b>单位：</b>中山大学数据科学与计算机学院</p>
 <p><b>现任职：</b>副教授</p>
@@ -509,7 +509,7 @@
 <div id="left" style="float:left ; width:50%; height:100%;">
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/yehong.jpg" width= "141" height = "188" align="left"/>
 </div>
-<div id="center" class="text" style="float:left ; width:70%; height:60%">
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
 <p><b>姓名：</b>叶宏</p>
 <p><b>单位：</b>航空工业西安航空计算技术研究所（631所）</p>
 <p><b>现任职：</b>副总师</p>
