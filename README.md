@@ -72,3 +72,14 @@
 
 
 [申请表](https://github.com/lz1159435992/information/blob/master/tester/001.doc)
+<style>
+        div {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: -150px 0 0 -200px;
+            width: 400px;
+            height: 300px;
+            border: 1px solid red;
+        }
+    </style>
