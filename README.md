@@ -69,6 +69,5 @@
 [申请表](https://github.com/lz1159435992/information/blob/master/tester/001.doc)
 <style>
         .text {
-            text-align: center
         }
     </style>
