@@ -1,12 +1,12 @@
 # 候选人信息
 ***  
-<div id="main" style="width:500px; height:160px; text-aligh:center">
+<div id="main" style="width:500px; height:200px; text-aligh:center">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" width= "120" height = "160" align="left"/>
+<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" width= "150" height = "200" align="left"/>
 </div>
 <div id="center" class="text" style="float:left ; width:50%; height:60%">
-<p><b>姓名：</b>蔡卓炜</b></p>
-<p><b>单位：</b>上海陆金所</b></p>
+<p><b>姓名：</b>蔡卓炜</p>
+<p><b>单位：</b>上海陆金所</p>
 <p><b>现任职：</b>移动研发部经理</p>
 <p><b>成为通信委员年度：</b>2017年</p>
 <p><b>界别：</b>工业界</p> 
