@@ -419,57 +419,136 @@
 *** 
 <div id="main" style="width:500px; height:200px; text-aligh:center">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" width= "141" height = "188" align="left"/>
+<img src="" width= "141" height = "188" align="left"/>
 </div>
 <div id="center" class="text" style="float:left ; width:50%; height:60%">
-<p><b>姓名：</b>陈东</p>
-<p><b>单位：</b>国防科学技术大学</p>
-<p><b>现任职：</b>讲师</p>
+<p><b>姓名：</b>肖臻</p>
+<p><b>单位：</b>北京大学计算机系</p>
+<p><b>现任职：</b>研究员</p>
 <p><b>成为通信委员年度：</b>2019年</p>
 <p><b>界别：</b>高校</p> 
 </div>
 </div>
 **个人简介：**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本人2007-2011年于国防科学技术大学计算机学院完成本科学习，2011-2013年于国防科学技术大学计算机学院完成研究生学习，2014-2019年于美国罗切斯特大学完成计算机科学专业博士学习，目前就任国防科学技术大学计算科学系讲师。  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本人主要的研究兴趣集中在系统软件及系统结构，包括但不限于动静态程序分析，并行计算，存储管理和程序综合。    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士博士期间共发表论文12篇，其中1作7篇。发表论文主要集中在编译领域会议PLDI（A类），LCPC，TACO（B类），并行计算会议HPCC（C类），Euro-Par（C类）及存储会议MEMSYS上。  
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-个人简介：  
-  2012.3~2014.1 复旦大学 软件学院工程硕士  
-  2014.3~至今 上海陆家嘴国际金融资产交易市场股份有限公司移动研发部经理  
-  2017.2~至今 中国计算机学会上海分会委员  
-
-[申请表](https://github.com/lz1159435992/information/blob/master/tester/001.doc)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月于美国Cornell University获得博士学位；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1996年7月于北京大学获得学士学位；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月—2006年2月：美国AT&T Labs—Research任Senior Technical Staff Member；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006年2月—2008年2月：美国IBM T.J.Watson Research Center任Research Staff Member；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008年2月—现在：北京大学计算机系研究员、博士生导师。  
+*** 
+<div id="main" style="width:500px; height:200px; text-aligh:center">
+<div id="left" style="float:left ; width:50%; height:100%;">
+<img src="" width= "141" height = "188" align="left"/>
+</div>
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
+<p><b>姓名：</b>肖臻</p>
+<p><b>单位：</b>北京大学计算机系</p>
+<p><b>现任职：</b>研究员</p>
+<p><b>成为通信委员年度：</b>2019年</p>
+<p><b>界别：</b>高校</p> 
+</div>
+</div>
+**个人简介：**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月于美国Cornell University获得博士学位；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1996年7月于北京大学获得学士学位；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月—2006年2月：美国AT&T Labs—Research任Senior Technical Staff Member；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006年2月—2008年2月：美国IBM T.J.Watson Research Center任Research Staff Member；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008年2月—现在：北京大学计算机系研究员、博士生导师。  *** 
+<div id="main" style="width:500px; height:200px; text-aligh:center">
+<div id="left" style="float:left ; width:50%; height:100%;">
+<img src="" width= "141" height = "188" align="left"/>
+</div>
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
+<p><b>姓名：</b>肖臻</p>
+<p><b>单位：</b>北京大学计算机系</p>
+<p><b>现任职：</b>研究员</p>
+<p><b>成为通信委员年度：</b>2019年</p>
+<p><b>界别：</b>高校</p> 
+</div>
+</div>
+**个人简介：**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月于美国Cornell University获得博士学位；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1996年7月于北京大学获得学士学位；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月—2006年2月：美国AT&T Labs—Research任Senior Technical Staff Member；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006年2月—2008年2月：美国IBM T.J.Watson Research Center任Research Staff Member；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008年2月—现在：北京大学计算机系研究员、博士生导师。  
+*** 
+<div id="main" style="width:500px; height:200px; text-aligh:center">
+<div id="left" style="float:left ; width:50%; height:100%;">
+<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/xietao.jpg" width= "141" height = "188" align="left"/>
+</div>
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
+<p><b>姓名：</b>谢涛</p>
+<p><b>单位：</b>北京大学计算机科学技术系</p>
+<p><b>现任职：</b>讲席教授</p>
+<p><b>成为通信委员年度：</b>2019年</p>
+<p><b>界别：</b>高校</p> 
+</div>
+</div>
+**个人简介：**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;申请人于1997年获复旦大学学士，2000年获北京大学硕士，2005年获美国西雅图华盛顿大学博士。  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;申请人是北京大学计算机科学技术系讲席教授，ACM SIGSOFT执行委员会委员，北美计算机华人学者协会软件工程专业委员会联合主席，CCF软件工程专业委员会候任副主任。电气电子工程师学会会士（IEEE Fellow）、美国计算机协会杰出科学家（ACM Distinguished Scientist）、CCF杰出会员。主要研究方向是软件测试、软件解析学、软件安全和智能软件工程等。曾获得美国NSF Faculty Career Award，国家自然科学基金会的海外及港澳学者合作研究基金及其延续资助。他是软件工程旗帜会议ICSE 2021、ISSTA 2015的大会程序委员会（共同）主席、ACM多元化（diversity）旗帜会议 Tapia 2017/2018的程序委员会主席和大会主席，担任《Software Testing, Verification and Reliability (STVR)》Wiley期刊的联合主编。    
+  *** 
+<div id="main" style="width:500px; height:200px; text-aligh:center">
+<div id="left" style="float:left ; width:50%; height:100%;">
+<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/yanrongjie.jpg" width= "141" height = "188" align="left"/>
+</div>
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
+<p><b>姓名：</b>晏荣杰</p>
+<p><b>单位：</b中国科学院软件研究所</p>
+<p><b>现任职：</b>副研究员</p>
+<p><b>成为通信委员年度：</b>2019年</p>
+<p><b>界别：</b>科研机构</p> 
+</div>
+</div>
+**个人简介：**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007年博士毕业于中国科学院软件研究所。毕业后留所工作，2017年聘为副研究员。在2008-2010年期间，在法国Verimag实验室进修，完成了自主探测车功能层的建模与验证。目前主要研究方向为实时、并发系统的建模与形式验证，多核嵌入式系统的设计与分析。主持了一个国家自然科学青年基金项目，参与了多个国家级重点项目、中科院级重点及国际合作项目。在国际期刊TCAD、SoSYM、TECS, 国际会议DATE、FM、ICECCS等发表了多篇学术论文。  
+  ***
+<div id="main" style="width:500px; height:200px; text-aligh:center">
+<div id="left" style="float:left ; width:50%; height:100%;">
+<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/yehong.jpg" width= "141" height = "188" align="left"/>
+</div>
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
+<p><b>姓名：</b>叶宏</p>
+<p><b>单位：</b>航空工业西安航空计算技术研究所（631所）</p>
+<p><b>现任职：</b>副总师</p>
+<p><b>成为通信委员年度：</b>2019年</p>
+<p><b>界别：</b>科研机构</p> 
+</div>
+</div>
+**个人简介：**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1983年毕业于西安工业大学，本人从事机载嵌入式系统软件研制工作。现任单位副总工程师，研究员，集团特级技术专家，国防科工局基础预研、装发信息局软件专业组成员。主要研究方向包括：安全关键系统、嵌入式系统，操作系统及开发环境，信息安全，软件工程和实时系统等技术。曾主持国家级重点预先研究和型号研制等任务三十多项。在航电系统架构设计、基础软件理论、分区技术、软件适航技术以及军用软硬件自主可控等方面做出了突出贡献。主持研制的天脉操作系统系列产品填补了国内航空领域的空白。发表相关论文二十余篇，组织编写国军标和行业标准五本，或发明专利二十四项，软件著作权登记五项。曾十余次获得国防科技进步一、二、三等奖，荣立过集团一、二、三等功。  
+  *** 
+<div id="main" style="width:500px; height:200px; text-aligh:center">
+<div id="left" style="float:left ; width:50%; height:100%;">
+<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/zhangjingxuan.jpg" width= "141" height = "188" align="left"/>
+</div>
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
+<p><b>姓名：</b>张静宣</p>
+<p><b>单位：</b>南京航空航天大学</p>
+<p><b>现任职：</b>助理教授</p>
+<p><b>成为通信委员年度：</b>2019年</p>
+<p><b>界别：</b>高校</p> 
+</div>
+</div>
+**个人简介：**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;张静宣，南京航空航天大学计算机科学与技术学院助理教授。主要研究方向为软件仓库挖掘和软件数据分析。分别于2012年和2018年在大连理工大学获得学士学位和博士学位，其中在2014年访问新加坡管 理大学做研究助理。先后在ACM/IEEE系列汇刊(TOSEM,TSE等），中国科学等期刊及ICSE,SANER等国际会议发表多篇论文。目前主持和作为项目主要成员参与多项研究课题，包括国家自然科学基金青年基金项目、面上项目、国家重点研发计划课题、全军共用信息系统装备预研项目等。  
+  *** 
+<div id="main" style="width:500px; height:200px; text-aligh:center">
+<div id="left" style="float:left ; width:50%; height:100%;">
+<img src="" width= "141" height = "188" align="left"/>
+</div>
+<div id="center" class="text" style="float:left ; width:50%; height:60%">
+<p><b>姓名：</b>张羽</p>
+<p><b>单位：</b>西北工业大学计算机学院</p>
+<p><b>现任职：</b>副教授/系副主任兼支部书记</p>
+<p><b>成为通信委员年度：</b>2019年</p>
+<p><b>界别：</b>高校</p> 
+</div>
+</div>
+**个人简介：**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工学博士，副教授，硕士生导师，博士生协助导师。IEEE会员、ACM会员和CCF高级会员。主要从事网络化嵌入式操作系统、能量有效性计算领域的研究与教学工作。分别于1998年7月、2002年3月和2010年12月于西北工业大学计算机学院获学士、硕士和博士学位。2008年9月至2010年3月，作为访问学者在澳大利亚墨尔本大学“智能感知与信息处理”国家实验室从事传感网无线重编程方面的研究工作。2015年3月至2017年3月，作为高级访问学者在澳大利亚皇家墨尔本理工大学“移动与普适计算”实验室从事新一代移动计算系统方面的研究工作。先后参与和主持国家自然科学基金、国家科技重大专项课题、国家电网重点科技计划“电力专用CPU及芯片和内嵌入式操作系统”子课题及澳大利亚自然科学基金（ARC）等多项课题研究，以第一发明人身份获国家发明专利6项。在IEEE INFOCOM／ACM MobiCOM，UbiComp等国际顶级会议，IEEE TC、IEEE/ACM TON等国际重要期刊和国内权威期刊（《计算机学报》、《软件学报》）上发表学术论文40余篇。担任IEEE iThings、ISSNIP等国际会议程序委员；担任INFOCOM、UbiComp等国际会议和IEEE TWC、Pervasive and Mobile Computing等期刊特约审稿人。主讲本科生“计算机操作系统”和硕士生“高级操作系统”等课程，主编《计算机系统基础》教材1部、参编《Cyber-Physical System》等专著2部，获陕西省教学成果一等奖1项、校教学成果一等奖2项，2007年获校本科教学“优秀”奖教金（全校仅5人），2010年主讲的“操作系统”课程被评为“国家级精品课程”。  
 ***
-<img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/002.jpg" align="left"/>
-**姓名：刘杰**  
-**单位：中科院软件所**  
-**现任职：副研究员**  
-**成为通信委员年度：2018年**  
-**推荐人：黄涛、王伟**  
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-个人简介：  
-  2000-2010年就读于中国科技大学并获计算机科学与技术博士学位，此后在中国科学院软件研究所从事研究工作，2014年晋升副研究员，中科院青年创新促进会会员。研究领域关注大数据系统软件、可扩展机器学习系统等。已主持完成大数据相关国家自然科学基金项目1项，作为子课题负责人主持大数据相关国家自然科学基金重点项目1项、中科院重大项目1项、民航总局科技重大专项1项,并参与其他若干国家项目10余项。近年来在ICSME、CIKM、ISSRE、ICAC、DASFAA、CAiSE等系统软件和大数据相关的国内外重要学术会议发表论文30多篇，其中DASFAA13获得了1st runner up论文奖,获得专利授权3项。
-
-
-[申请表](https://github.com/lz1159435992/information/blob/master/tester/001.doc)
 <style>
         .text {
         }
