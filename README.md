@@ -67,7 +67,8 @@
 </div>
 </div>
 **个人简介：**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012年毕业于中国科学院研究生院，计算机博士。目前就职于阿里巴巴集团系统软件事业部，领导OSLab团队，探索/研发面向数据中心与云环境下的下一代操作系统与运行单元。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012年毕业于中国科学院研究生院，计算机博士。目前就职于阿里巴巴集团系统软件事业部，领导OSLab团队，探索/研发面向数据中心与云环境下的下一代操作系统与运行单元。  
+
 ***  
 
 <div id="main" style="width:500px; height:200px; text-aligh:center">
@@ -490,48 +491,6 @@
 
 <div id="main" style="width:500px; height:200px; text-aligh:center">
 <div id="left" style="float:left ; width:50%; height:100%;">
-<img src="" width= "141" height = "188" align="left"/>
-</div>
-<div id="center" class="text" style="float:left ; width:50%; height:60%">
-<p><b>姓名：</b>肖臻</p>
-<p><b>单位：</b>北京大学计算机系</p>
-<p><b>现任职：</b>研究员</p>
-<p><b>成为通信委员年度：</b>2019年</p>
-<p><b>界别：</b>高校</p> 
-</div>
-</div>
-**个人简介：**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月于美国Cornell University获得博士学位；  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1996年7月于北京大学获得学士学位；  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月—2006年2月：美国AT&T Labs—Research任Senior Technical Staff Member；  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006年2月—2008年2月：美国IBM T.J.Watson Research Center任Research Staff Member；  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008年2月—现在：北京大学计算机系研究员、博士生导师。  
-
-***  
-
-<div id="main" style="width:500px; height:200px; text-aligh:center">
-<div id="left" style="float:left ; width:50%; height:100%;">
-<img src="" width= "141" height = "188" align="left"/>
-</div>
-<div id="center" class="text" style="float:left ; width:50%; height:60%">
-<p><b>姓名：</b>肖臻</p>
-<p><b>单位：</b>北京大学计算机系</p>
-<p><b>现任职：</b>研究员</p>
-<p><b>成为通信委员年度：</b>2019年</p>
-<p><b>界别：</b>高校</p> 
-</div>
-</div>
-**个人简介：**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月于美国Cornell University获得博士学位；  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1996年7月于北京大学获得学士学位；  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年1月—2006年2月：美国AT&T Labs—Research任Senior Technical Staff Member；  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006年2月—2008年2月：美国IBM T.J.Watson Research Center任Research Staff Member；  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008年2月—现在：北京大学计算机系研究员、博士生导师。  
-
-***  
-
-<div id="main" style="width:500px; height:200px; text-aligh:center">
-<div id="left" style="float:left ; width:50%; height:100%;">
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/xietao.jpg" width= "141" height = "188" align="left"/>
 </div>
 <div id="center" class="text" style="float:left ; width:50%; height:60%">
@@ -554,7 +513,7 @@
 </div>
 <div id="center" class="text" style="float:left ; width:50%; height:60%">
 <p><b>姓名：</b>晏荣杰</p>
-<p><b>单位：</b中国科学院软件研究所</p>
+ <p><b>单位：</b>中国科学院软件研究所</p>
 <p><b>现任职：</b>副研究员</p>
 <p><b>成为通信委员年度：</b>2019年</p>
 <p><b>界别：</b>科研机构</p> 
