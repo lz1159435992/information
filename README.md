@@ -1,4 +1,4 @@
-# 候选人信息
+# 2019年度CCF系统软件专委会委员候选人简况
 ***  
 <div id="main" style="width:500px; height:200px; text-aligh:center">
 <div id="left" style="float:left ; width:50%; height:100%;">
