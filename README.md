@@ -5,10 +5,13 @@
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" align="left"/>
 </div>
 <div id="right" style="float:left ; width:50%; height:100%;">
-**姓名：蔡卓炜**
-**现任职：移动研发部经理**  
-**成为通信委员年度：2017年**  
-**推荐人：李宣东、陈海波**    
+姓名：蔡卓炜
+<br/>
+现任职：移动研发部经理 
+<br/>
+成为通信委员年度：2017年 
+<br/>
+推荐人：李宣东、陈海波   
 </div>
 </div>
 
