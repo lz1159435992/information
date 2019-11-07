@@ -1,6 +1,6 @@
 # 候选人信息
 ***  
-<div id="main" style="width:800px; height:400px;">
+<div id="main" style="width:800px; height:250px;">
 <div id="left" style="float:left ; width:50%; height:100%;">
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" width= "178" height = "250" align="left"/>
 </div>
@@ -15,9 +15,9 @@
 </div>
 </div>
 **个人简介：**  
-&nbsp;&nbsp;2012.3~2014.1 复旦大学 软件学院工程硕士  
-&nbsp;&nbsp;2014.3~至今 上海陆家嘴国际金融资产交易市场股份有限公司移动研发部经理  
-&nbsp;&nbsp;2017.2~至今 中国计算机学会上海分会委员  
+&nbsp;&nbsp;&nbsp;&nbsp;2012.3~2014.1 复旦大学 软件学院工程硕士  
+&nbsp;&nbsp;&nbsp;&nbsp;2014.3~至今 上海陆家嘴国际金融资产交易市场股份有限公司移动研发部经理  
+&nbsp;&nbsp;&nbsp;&nbsp;2017.2~至今 中国计算机学会上海分会委员  
 
 <img src="https://raw.githubusercontent.com/lz1159435992/information/master/tester/001.jpg" align="left"/>
 | 居中对齐 |  
